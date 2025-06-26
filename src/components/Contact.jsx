@@ -5,8 +5,8 @@ import { Email, LinkedIn, GitHub, Phone } from '@mui/icons-material';
 
 const contact = {
   name: "Dev Prasad Narayan Patra",
-  email: "devprasad2000@example.com",  // Replace with real email
-  phone: "+91-8448150244",        // Optional
+  email: "devprasad2000@gmail.com",  
+  phone: "+91-8448150244",        
   linkedIn: "https://www.linkedin.com/in/dev-prasad-narayan-patra",
   github: "https://github.com/devp128",
   message: `Have a question or want to work together? 
