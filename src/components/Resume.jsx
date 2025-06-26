@@ -71,7 +71,7 @@ const Resume = () => {
 
   const handleDownload = () => {
     // The PDF file should be placed in the public folder
-    const resumeUrl = '/Resume.pdf';
+    const resumeUrl = '/Dev_Resume.pdf';
     window.open(resumeUrl, '_blank');
   };
 

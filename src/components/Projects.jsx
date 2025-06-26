@@ -17,8 +17,16 @@ const projects = [
     description: "An educational platform that makes constitutional literacy engaging through card games, quizzes, and an AI chatbot.",
     techStack: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB", "Unity/Three.js"],
     image: "/project2.jpg",
-    github: "https://github.com/devp128/ConQuest-Let-s-Learn-Constitution",
-    demo: "https://conxquest.onrender.com/"
+    github: "https://github.com/devp128/ConxQuest-Edu",
+    demo: "https://conxquest.vercel.app/"
+  },
+  {
+    title: "PennyPilot – Expense Tracker",
+    description: "A modern, full-stack expense tracker to manage your spending, visualize trends, and stay on budget. Features include authentication, category charts, responsive UI, and seamless expense management.",
+    techStack: ["React", "Node.js", "Express", "MongoDB", "Recharts"],
+    image: "/dashboard.jpg", // Replace with your actual image path
+    github: "https://github.com/devp128/PennyPilot",
+    demo: "https://penny-pilot-three.vercel.app/"
   },
   {
     title: "To-Do App with Redux Toolkit",
@@ -27,8 +35,10 @@ const projects = [
     image: "/project3.jpg",
     github: "https://github.com/devp128/To-Do",
     demo: "https://your-todo-app.com"
-  }
+  },
+
 ];
+
 
 const Projects = () => {
   const containerVariants = {
