@@ -24,7 +24,7 @@ const projects = [
     title: "PennyPilot – Expense Tracker",
     description: "A modern, full-stack expense tracker to manage your spending, visualize trends, and stay on budget. Features include authentication, category charts, responsive UI, and seamless expense management.",
     techStack: ["React", "Node.js", "Express", "MongoDB", "Recharts"],
-    image: "/dashboard.jpg", // Replace with your actual image path
+    image: "/dashboard.jpg", 
     github: "https://github.com/devp128/PennyPilot",
     demo: "https://penny-pilot-three.vercel.app/"
   },
